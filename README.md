@@ -8,7 +8,7 @@
 <h3 align="left">Who Am I?</h3>
 <p align=left>
     <ul>
-        <li>I am an aspiring Automaation Engineer.</li>
+        <li>I am an aspiring Automation Engineer.</li>
         <li>I am an Autumn 2024 Graduate of Code First Girls FullStack Development nano-degree.</li>
         <li>An avid learner, who is constantly looking for ways to grow and develop both personally and technically.</li>
     </ul>
