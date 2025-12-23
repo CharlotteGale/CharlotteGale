@@ -12,9 +12,9 @@
 ### 👩‍💻 Who Am I?
 
 <ul>
-  <li>🛠️ I'm a career-switching junior developer with a background in carpentry — now coding fullstack apps with React, Express, and PostgreSQL.</li>
-  <li>🌱 I recently completed the Code First Girls Fullstack Nano-degree and continue building my own CRPG using Flask + React.</li>
-  <li>📚 I’m passionate about problem-solving, accessibility, and creating meaningful user experiences.</li>
+  <li>🛠️ I'm a career-switching software development apprentice at Hawk-Eye Innovations, currently completing a 16-week coding bootcamp through Makers Academy while building production skills in Python, TDD, and database design.</li>
+  <li>🌱 I've completed the Code First Girls Fullstack Nano-degree and continue building personal projects that combine my passion for D&D with software development.</li>
+  <li>📚 I'm passionate about clean architecture, test-driven development, and creating tools that solve real problems for communities I care about.</li>
 </ul>
 
 ---
@@ -44,11 +44,6 @@
 
 - 👾 [**Lost Ember – Narrative CRPG (In Development)**](https://github.com/CharlotteGale/lost-ember-frontend)  
   _A passion project blending Flask, PostgreSQL, and React to bring a fantasy world to life. I’m building a custom character engine, morality system, and stat-driven encounters — one lore entry at a time._
-
-
----
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charlottegale" alt="charlottegale" /></a> </p>
 
 ---
 
